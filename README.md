@@ -1,3 +1,4 @@
+![ROLL THE DICE](https://github.com/user-attachments/assets/bb923c4b-97fa-4153-a057-32151c78a260)
 Roll the Dice Game:
 Roll the Dice is a simple yet entertaining game created in Python. This project simulates the classic experience of rolling dice, making it perfect for anyone who enjoys games of chance.
 
